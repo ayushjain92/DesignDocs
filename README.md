@@ -16,3 +16,9 @@
 ### GoogleMaps Design
 
 ![Maps](diagrams/maps.png)
+
+
+
+### LoadBalancer
+
+![LB](diagrams/loadbalancer.png)
